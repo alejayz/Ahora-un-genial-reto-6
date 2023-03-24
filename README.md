@@ -32,4 +32,42 @@ La raíz cúbica del menor número
 
 **9.** Consultar qué es y cómo funciona *pip* en python.
 
+*pip* en python es un sistema que se utiliza para gestionar paquetes de Python para utlizar y administrar dichos paquetes, los cuales están escritos en código de Python. Estos archivos los podemos descargar en nuestro computador con el fin de integrarlos a nuestros trabajos o desarrollos realizados en este lenguaje de programación. Gran cantidad de paquetes se pueden encontrar en el Python Package Index (PyPI).
+Para instalar los paquetes de Python con los comandos de *pip* se utiliza la siguiente sintaxis: pip <comando> <nombre_del_paquete> 
+
+Los comandos más básicos de *pip* son:
+
+*pip install*: para instalar un paquete
+
+*pip search*: para buscar un paquete
+
+*pip show*: para obtener información sobre los paquetes instalados
+
+*pip uninstall*: para desinstalar
+
+Fuente: 
+
+https://www.buscaminegocio.com/cursos-de-python/pip-en-python.html#:~:text=Pip%20en%20python%20es%20un,Python%20Package%20Index%20(PyPI).
+
+https://www.ediciones-eni.com/open/mediabook.aspx?idR=b4a067070294f85aee64ccf302bc26f7
+
 **10.** Hacer un listado de módulos populares para python que se puedan instalar com *pip* y consultar cómo instalarlos.
+1. Matplotlib
+2. TensorFlow
+3. PyTorch
+4. Keras
+5. Scikit-learn
+6. Pandas
+7. Seaborn
+9. NumPy
+
+Se instalan de la siguiente manera:
+1. Conseguir los archivos Scripts y pip 
+2. Copiar la ruta de dirección
+3. Ejecutar el software
+
+Fuente: 
+
+https://immune.institute/blog/librerias-python-que-son/
+
+Y lISTO, FINALIZAMOS EL RETO :) 
