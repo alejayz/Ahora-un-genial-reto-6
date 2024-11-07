@@ -1,6 +1,4 @@
 # Ahora-un-genial-reto-6
-# ¡Hola! :wave: Bienvenidos a un nuevo repo en el cual solucionaremos una vez más otro reto de la clase.
-A continuación los puntos a resolver y adjunto a este repo el desarrollo de cada uno (o de los que lo requieran).
 
 **1.** Desarrollar un función matemática para calcular el volumen y el área superficial de la siguiente figura:
 
